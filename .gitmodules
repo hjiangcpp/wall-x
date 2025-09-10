@@ -1,3 +1,6 @@
 [submodule "3rdparty/cutlass"]
 	path = 3rdparty/cutlass
 	url = https://github.com/NVIDIA/cutlass.git
+[submodule "3rdparty/fast"]
+	path = 3rdparty/fast
+	url = https://hf-mirror.com/physical-intelligence/fast
