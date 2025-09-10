@@ -268,3 +268,6 @@ NOTES.md
 .env
 .env.local
 .env.*.local
+
+# Ignore the entire dependencies folder
+dependencies/
